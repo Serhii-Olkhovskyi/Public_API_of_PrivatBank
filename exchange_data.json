@@ -1,0 +1,249 @@
+[
+  {
+    "13.03.2023": {
+      "USD": {
+        "sale rate": 40.55,
+        "purchase rate": 39.55
+      },
+      "EUR": {
+        "sale rate": 38.45,
+        "purchase rate": 37.95
+      }
+    }
+  },
+  {
+    "13.03.2023": {
+      "USD": {
+        "sale rate": 40.7,
+        "purchase rate": 39.7
+      },
+      "EUR": {
+        "sale rate": 38.35,
+        "purchase rate": 37.85
+      }
+    }
+  },
+  {
+    "14.03.2023": {
+      "USD": {
+        "sale rate": 40.8,
+        "purchase rate": 39.8
+      },
+      "EUR": {
+        "sale rate": 38.4,
+        "purchase rate": 37.9
+      }
+    }
+  },
+  {
+    "12.03.2023": {
+      "USD": {
+        "sale rate": 40.55,
+        "purchase rate": 39.55
+      },
+      "EUR": {
+        "sale rate": 38.45,
+        "purchase rate": 37.95
+      }
+    }
+  },
+  {
+    "11.03.2023": {
+      "USD": {
+        "sale rate": 40.55,
+        "purchase rate": 39.55
+      },
+      "EUR": {
+        "sale rate": 38.45,
+        "purchase rate": 37.95
+      }
+    }
+  },
+  {
+    "14.03.2023": {
+      "USD": {
+        "sale rate": 40.8,
+        "purchase rate": 39.8
+      },
+      "EUR": {
+        "sale rate": 38.4,
+        "purchase rate": 37.9
+      }
+    }
+  },
+  {
+    "13.03.2023": {
+      "USD": {
+        "sale rate": 40.7,
+        "purchase rate": 39.7
+      },
+      "EUR": {
+        "sale rate": 38.35,
+        "purchase rate": 37.85
+      }
+    }
+  },
+  {
+    "10.03.2023": {
+      "USD": {
+        "sale rate": 40.5,
+        "purchase rate": 39.5
+      },
+      "EUR": {
+        "sale rate": 38.45,
+        "purchase rate": 37.95
+      }
+    }
+  },
+  {
+    "13.03.2023": {
+      "USD": {
+        "sale rate": 38.35,
+        "purchase rate": 37.85
+      }
+    }
+  },
+  {
+    "11.03.2023": {
+      "USD": {
+        "sale rate": 38.45,
+        "purchase rate": 37.95
+      }
+    }
+  },
+  {
+    "12.03.2023": {
+      "USD": {
+        "sale rate": 38.45,
+        "purchase rate": 37.95
+      }
+    }
+  },
+  {
+    "14.03.2023": {
+      "USD": {
+        "sale rate": 38.4,
+        "purchase rate": 37.9
+      }
+    }
+  },
+  {
+    "08.03.2023": {
+      "USD": {
+        "sale rate": 38.5,
+        "purchase rate": 38.0
+      }
+    }
+  },
+  {
+    "09.03.2023": {
+      "USD": {
+        "sale rate": 38.35,
+        "purchase rate": 37.85
+      }
+    }
+  },
+  {
+    "10.03.2023": {
+      "USD": {
+        "sale rate": 38.45,
+        "purchase rate": 37.95
+      }
+    }
+  },
+  {
+    "14.03.2023": {
+      "GBR": {
+        "sale rate": 38.4,
+        "purchase rate": 37.9
+      }
+    }
+  },
+  {
+    "14.03.2023": {}
+  },
+  {
+    "14.03.2023": {
+      "EUR": {
+        "sale rate": 40.8,
+        "purchase rate": 39.8
+      },
+      "USD": {
+        "sale rate": 38.4,
+        "purchase rate": 37.9
+      }
+    }
+  },
+  {
+    "14.03.2023": {
+      "TL": {
+        "sale rate": 38.4,
+        "purchase rate": 37.9
+      }
+    }
+  },
+  {
+    "14.03.2023": {
+      "TL": {
+        "sale rate": 8.77,
+        "purchase rate": 8.34
+      }
+    }
+  },
+  {
+    "14.03.2023": {
+      "USD": {
+        "sale rate": 8.77,
+        "purchase rate": 8.34
+      },
+      "PLN": {
+        "sale rate": 38.4,
+        "purchase rate": 37.9
+      }
+    }
+  },
+  {
+    "14.03.2023": {
+      "TL": {
+        "sale rate": 38.4,
+        "purchase rate": 37.9
+      }
+    }
+  },
+  {
+    "14.03.2023": {
+      "USD": {
+        "sale rate": 8.77,
+        "purchase rate": 8.34
+      },
+      "PLN": {
+        "sale rate": 38.4,
+        "purchase rate": 37.9
+      }
+    }
+  },
+  {
+    "14.03.2023": {
+      "EUR": {
+        "sale rate": 40.8,
+        "purchase rate": 39.8
+      },
+      "USD": {
+        "sale rate": 38.4,
+        "purchase rate": 37.9
+      }
+    }
+  },
+  {
+    "14.03.2023": {
+      "USD": {
+        "sale rate": 8.77,
+        "purchase rate": 8.34
+      },
+      "PLN": {
+        "sale rate": 38.4,
+        "purchase rate": 37.9
+      }
+    }
+  }
+]
